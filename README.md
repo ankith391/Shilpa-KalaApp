@@ -62,6 +62,30 @@ Register/Login → Dashboard → Upload Product → Bitmap Branding → Gallery 
 
 ---
 
+## 🏗️ Architecture
+
+The application follows MVVM (Model-View-ViewModel) architecture for clean code separation and scalability.
+
+UI (Jetpack Compose)
+↓
+ViewModel
+↓
+Repository
+↓
+Room Database
+
+---
+
+## ⚡ Challenges Faced
+
+- Handling large bitmap image processing
+- Fixing ANR (App Not Responding) issues
+- Managing navigation between screens
+- Optimizing Room Database operations
+
+---
+  
+
 ## 📂 GitHub Repository
 https://github.com/ankith391/Shilpa-KalaApp
 
