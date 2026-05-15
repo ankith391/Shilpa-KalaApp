@@ -105,7 +105,7 @@ https://github.com/ankith391/Shilpa-KalaApp
 ---
 
 ## 👨‍💻 Developer
-Ankith
+Ankith kumar
 
 ---
 
